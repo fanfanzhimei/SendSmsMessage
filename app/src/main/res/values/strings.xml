@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SendSmsMessage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_receive">接收人号码</string>
+    <string name="str_edit">编辑信息</string>
+    <string name="str_send">发送</string>
+</resources>
